@@ -19,6 +19,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+### 👁️ Profile Views
+![Visitor Count](https://profile-counter.glitch.me/sayak-brm/count.svg)
+
 ---
 
 ## 💰 You can help me by Donating
